@@ -1,6 +1,6 @@
 # Project: Customer-Segmentation-and-Analysis
 ## Introduction:
-In this project, I employ Python data libraries (Pandas, Matplotlib, Plotly) and a K-Means clustering algorithm to wrangle retail data, perform exploratory data analysis(EDA) and undertake a customer segmentation analysis using RFM analysis to understand and unravel the intricacies of customer behaviour on a UK based and registered non-store online retail platform.
+In this project, I employ Python data libraries (Pandas, Matplotlib, Plotly) and the K-Means clustering algorithm to wrangle retail data, perform exploratory data analysis(EDA) and undertake a customer segmentation analysis using RFM (Recency, Frequency, Monetary) analysis to understand and unravel the intricacies of customer behaviour on a UK based and registered non-store online retail platform.
 
 ## Dataset Overview
 The dataset used for this project encompasses a diverse array of more than 500K transactions, capturing the interactions of customers with the online retail platform. Features such as transaction dates, purchase amounts, and customer identifiers form the foundation for a comprehensive exploration of customer dynamics.
