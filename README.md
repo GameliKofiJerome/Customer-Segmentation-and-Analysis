@@ -97,5 +97,6 @@ __NB:__ It must be noted that the currency value of all transaction amounts in t
 __NB:__ 
 - HTML files of the Exploratory Data Analysis and RFM Analysis have been included. Download the files onto your local device and open them in your browser. The files serve as reports for both stages and are made up of interactive visualizations. They do not show the code cells.
 - PDF files of both the Exploratory Data Analysis and RFM Analysis have also been included.
-- For proper rendering of the visualizations in the `ipynb` files, please use the following links:
-  - (Customer Segmentation Analysis - Exploratory Data Analysis)[https://nbviewer.org/github/GameliKofiJerome/Customer-Segmentation-and-Analysis/blob/main/Customer%20Segmentation%20Analysis%20-%20Exploratory%20Data%20Analysis.ipynb]
+- For proper viewing and rendering of the interactive visualizations in the `ipynb` files, please use the following links:
+  - [Customer Segmentation Analysis - Exploratory Data Analysis](https://nbviewer.org/github/GameliKofiJerome/Customer-Segmentation-and-Analysis/blob/main/Customer%20Segmentation%20Analysis%20-%20Exploratory%20Data%20Analysis.ipynb)
+  - [Customer Segmentation Analysis - K-Means Clustering and RFM Analysis](https://nbviewer.org/github/GameliKofiJerome/Customer-Segmentation-and-Analysis/blob/main/Customer%20Segmentation%20Analysis%20-%20K-Means%20Clustering%20and%20RFM%20Analysis.ipynb)
