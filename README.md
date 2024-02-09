@@ -94,4 +94,4 @@ Customer segmentation, as revealed by the analysis, is a powerful tool for the o
 
 __NB:__ It must be noted that the currency value of all transaction amounts in this project is the pound sterling.
 
-__NB:__ HTML files of the Exploratory Data Analysis and RFM Analysis have been included. Download the file onto your local device and open it in your browser. The files serve as reports for both stages and are made up of interactive visualization. They do not show the code cells.
+__NB:__ HTML files of the Exploratory Data Analysis and RFM Analysis have been included. Download the files onto your local device and open it in your browser. The files serve as reports for both stages and are made up of interactive visualizations. They do not show the code cells.
