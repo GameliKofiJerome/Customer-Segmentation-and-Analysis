@@ -41,6 +41,7 @@ By answering questions on the data, I derive some Key Performance Indicators (KP
 - From which countries were the most or least transactions recorded with respect to transaction type (sale or canceled)?
 - During which time of day (morning, afternoon, evening) were transactions made?
 - From which country did the online retail store have the most or least customers?
+
 For proper viewing and rendering of the interactive visualizations, please click to open the following link:
   - [Customer Segmentation Analysis - Exploratory Data Analysis](https://nbviewer.org/github/GameliKofiJerome/Customer-Segmentation-and-Analysis/blob/main/Customer%20Segmentation%20Analysis%20-%20Exploratory%20Data%20Analysis.ipynb)
   
@@ -64,6 +65,7 @@ The following are the objectives for this stage of the project:
 4. Customizing Communication Strategies:
     - How can communication strategies be customized for different customer segments to enhance the overall customer experience
     - What personalized approaches can be adopted based on the identified RFM segments?
+   
 For proper viewing and rendering of the interactive visualizations, please click to open the following link:
   - [Customer Segmentation Analysis - K-Means Clustering and RFM Analysis](https://nbviewer.org/github/GameliKofiJerome/Customer-Segmentation-and-Analysis/blob/main/Customer%20Segmentation%20Analysis%20-%20K-Means%20Clustering%20and%20RFM%20Analysis.ipynb)
 
