@@ -41,6 +41,8 @@ By answering questions on the data, I derive some Key Performance Indicators (KP
 - From which countries were the most or least transactions recorded with respect to transaction type (sale or canceled)?
 - During which time of day (morning, afternoon, evening) were transactions made?
 - From which country did the online retail store have the most or least customers?
+For proper viewing and rendering of the interactive visualizations, please click to open the following link:
+  - [Customer Segmentation Analysis - Exploratory Data Analysis](https://nbviewer.org/github/GameliKofiJerome/Customer-Segmentation-and-Analysis/blob/main/Customer%20Segmentation%20Analysis%20-%20Exploratory%20Data%20Analysis.ipynb)
   
 __For each of the above questions, the key insights derived are found below each chart used to visualize the dataset result that explains the findings.__
 
@@ -62,6 +64,8 @@ The following are the objectives for this stage of the project:
 4. Customizing Communication Strategies:
     - How can communication strategies be customized for different customer segments to enhance the overall customer experience
     - What personalized approaches can be adopted based on the identified RFM segments?
+For proper viewing and rendering of the interactive visualizations, please click to open the following link:
+  - [Customer Segmentation Analysis - K-Means Clustering and RFM Analysis](https://nbviewer.org/github/GameliKofiJerome/Customer-Segmentation-and-Analysis/blob/main/Customer%20Segmentation%20Analysis%20-%20K-Means%20Clustering%20and%20RFM%20Analysis.ipynb)
 
 ## Conclusion
 ### Summarized Key Insights from Customer Segmentation & Analysis
@@ -97,6 +101,6 @@ __NB:__ It must be noted that the currency value of all transaction amounts in t
 __NB:__ 
 - HTML files of the Exploratory Data Analysis and RFM Analysis have been included. Download the files onto your local device and open them in your browser. The files serve as reports for both stages and are made up of interactive visualizations. They do not show the code cells.
 - PDF files of both the Exploratory Data Analysis and RFM Analysis have also been included.
-- For proper viewing and rendering of the interactive visualizations in the `ipynb` files, please use the following links:
+- For proper viewing and rendering of the interactive visualizations in the `ipynb` files, please click to open the following links:
   - [Customer Segmentation Analysis - Exploratory Data Analysis](https://nbviewer.org/github/GameliKofiJerome/Customer-Segmentation-and-Analysis/blob/main/Customer%20Segmentation%20Analysis%20-%20Exploratory%20Data%20Analysis.ipynb)
   - [Customer Segmentation Analysis - K-Means Clustering and RFM Analysis](https://nbviewer.org/github/GameliKofiJerome/Customer-Segmentation-and-Analysis/blob/main/Customer%20Segmentation%20Analysis%20-%20K-Means%20Clustering%20and%20RFM%20Analysis.ipynb)
