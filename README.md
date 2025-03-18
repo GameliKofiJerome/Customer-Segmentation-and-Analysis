@@ -44,11 +44,11 @@ By answering questions about the data, I derived some key performance indicators
 - From which countries were the most or least transactions recorded with respect to transaction type (sale or canceled)?
 - During which time of day (morning, afternoon, evening) were transactions made?
 - From which country did the online retail store have the most or least customers?
+__For each of the above questions, the key insights derived are found below each chart used to visualize the dataset result that explains the findings.__
 
 For proper viewing and rendering of the interactive visualizations, please click on the following link:
 [Customer Segmentation Analysis - Exploratory Data Analysis](https://nbviewer.org/github/GameliKofiJerome/Customer-Segmentation-and-Analysis/blob/main/Customer%20Segmentation%20Analysis%20-%20Exploratory%20Data%20Analysis.ipynb)
-  
-__For each of the above questions, the key insights derived are found below each chart used to visualize the dataset result that explains the findings.__
+
 
 ### 3. Stage Three: RFM (Recency, Frequency, Monetary) Analysis
 In this final stage of the customer segmentation & analysis project, I delved into the dataset(cleaned) of the online retail store to unravel the intricacies of customer behaviour. By leveraging the K-Means Clustering algorithm and the powerful RFM (Recency, Frequency, Monetary) analysis, I aimed to distil valuable insights that could profoundly impact business strategies and enhance customer-centric decision-making.
