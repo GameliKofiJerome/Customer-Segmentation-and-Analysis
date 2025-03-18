@@ -32,17 +32,19 @@ This is the first stage of the project where I focus on cleaning and preparing t
 - Correcting data anomalies
 - Formatting data values
 __NB:__ In this stage, comments have been included in each code cell to guide users and viewers through the data-wrangling process.
+For proper viewing and rendering of the interactive visualizations, please click on the following link:
+  - [Customer Segmentation Analysis - Data Wrangling (Cleaning and Preparation)](https://nbviewer.org/github/GameliKofiJerome/Customer-Segmentation-and-Analysis/blob/main/Customer%20Segmentation%20Analysis%20-%20Data%20Wrangling%20%28Cleaning%20%26%20Preparation%29.ipynb)
 
 ### 2. Stage Two: Exploratory Data Analysis (EDA)
 This is the second stage of the project where I delve into the cleaned sales data from the data wrangling stage to explore and understand the key aspects of the data. I use interactive visualizations to communicate key insights and trends, as well as summary statistics to highlight key aspects of the dataset, helping stakeholders understand the nature of the data.
-By answering questions on the data, I derive some Key Performance Indicators (KPIs). These key questions are as follows:
+By answering questions about the data, I derived some key performance indicators (KPIs). These key questions are as follows:
 - What proportion of transactions were captured as either `sale` or `canceled`?
 - What was the trend in transactions made over the recorded period?
 - From which countries were the most or least transactions recorded with respect to transaction type (sale or canceled)?
 - During which time of day (morning, afternoon, evening) were transactions made?
 - From which country did the online retail store have the most or least customers?
 
-For proper viewing and rendering of the interactive visualizations, please click to open the following link:
+For proper viewing and rendering of the interactive visualizations, please click on the following link:
   - [Customer Segmentation Analysis - Exploratory Data Analysis](https://nbviewer.org/github/GameliKofiJerome/Customer-Segmentation-and-Analysis/blob/main/Customer%20Segmentation%20Analysis%20-%20Exploratory%20Data%20Analysis.ipynb)
   
 __For each of the above questions, the key insights derived are found below each chart used to visualize the dataset result that explains the findings.__
@@ -66,7 +68,7 @@ The following are the objectives for this stage of the project:
     - How can communication strategies be customized for different customer segments to enhance the overall customer experience
     - What personalized approaches can be adopted based on the identified RFM segments?
    
-For proper viewing and rendering of the interactive visualizations, please click to open the following link:
+For proper viewing and rendering of the interactive visualizations, please click on the following link:
   - [Customer Segmentation Analysis - K-Means Clustering and RFM Analysis](https://nbviewer.org/github/GameliKofiJerome/Customer-Segmentation-and-Analysis/blob/main/Customer%20Segmentation%20Analysis%20-%20K-Means%20Clustering%20and%20RFM%20Analysis.ipynb)
 
 ## Conclusion
